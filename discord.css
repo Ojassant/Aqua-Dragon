@@ -1,0 +1,17 @@
+.nav-bar{
+    display: flex;
+    align-items: baseline;
+    background-color: black;
+    fill-opacity: 0.9;
+    height: 40px;
+    padding: 10px;
+    justify-content: space-evenly;
+    width: 1490px;
+}
+a{
+    color: whitesmoke;
+}
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/877471769051684914/913296207458209822/2Q.png);
+    background-size: cover;
+}

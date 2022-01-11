@@ -1,0 +1,54 @@
+.nav-bar{
+    display: flex;
+    align-items: baseline;
+    background-color: black;
+    fill-opacity: 0.9;
+    height: 40px;
+    padding: 10px;
+    justify-content: space-evenly;
+    width: 1490px;
+}
+a{
+    color: whitesmoke;
+}
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/877471769051684914/913295849717645372/1245781.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body{
+        text-align: center;
+        width: 800px;
+        background-color: black;
+        opacity: 0.9;
+        margin-left: auto;
+        margin-right: auto;
+}
+p{
+    color: whitesmoke;
+}
+h1{
+    color: whitesmoke;
+}
+p{
+    color: yellow;
+}
+h1{
+    color: yellow;
+}
+div{
+    text-align: center;
+    width: 800px;
+    background-color: black;
+    opacity: 0.9;
+    margin-left: auto;
+    margin-right: auto;
+}
+.onepunchman{
+    width: 400px;
+    height: 500px;
+}
+.attackontitan{
+    width: 400px;
+    height: 500px;
+}

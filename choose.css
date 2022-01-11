@@ -1,0 +1,28 @@
+div{
+    background-color: blue;
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+img{
+    border-radius: 50px;
+}
+body{
+    background-color: 	#DC143C;
+}
+.info{
+    transform: translate(90px);
+}
+.down{
+    transform: translateX(850px);
+    margin-top: -440px;
+}
+.info>:hover{
+    transform: scale(1.2);
+    cursor:"url";
+}
+.down>:hover{
+    transform: scale(1.2);
+    cursor:"url";
+}
